@@ -1,11 +1,10 @@
-import { Button } from '@nextui-org/react';
+import { RouterProvider } from 'react-router-dom';
+import { router } from './router';
 
 function App() {
     return (
         <div className="App">
-            <Button variant={'shadow'} color={'secondary'}>
-                Test
-            </Button>
+            <RouterProvider router={router} />
         </div>
     );
 }
