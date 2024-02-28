@@ -5,11 +5,15 @@ import MainLayout from './routes/MainLayout';
 import MainIndex from './routes/MainIndex';
 import Users from './routes/users/Users';
 import User from './routes/users/User';
+import AdminLayout from './routes/admin/AdminLayout';
+import Dashboard from './routes/admin/Dashboard';
+import NotFound from './routes/NotFound';
 
 export const router = createBrowserRouter([
     {
         path: '/',
         element: <MainLayout />,
+        errorElement: <NotFound />,
         children: [
             {
                 index: true,
@@ -28,10 +32,22 @@ export const router = createBrowserRouter([
     {
         path: '/users',
         element: <Users />,
+    },
+    {
+        path: '/users/:userId',
+        element: <User />,
+    },
+    {
+        path: '/admin',
+        element: <AdminLayout />,
         children: [
             {
-                path: '/users/:userId',
-                element: <User />,
+                index: true,
+                element: (
+                    // <AuthGuard>
+                    <Dashboard />
+                    // </AuthGuard>
+                ),
             },
         ],
     },
