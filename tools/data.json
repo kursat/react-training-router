@@ -1,100 +1,84 @@
 {
   "users": [
     {
-      "id": "6deb7521cae6e3b247f156cf",
+      "id": "24754a1be39bd7eb2ffffa74",
       "sex": "female",
-      "firstName": "Zehra",
-      "lastName": "Karaböcek",
-      "fullName": "Zehra Karaböcek",
-      "email": "zehra61@goc.gov.tr"
+      "firstName": "Fahrünissa",
+      "lastName": "Adıvar",
+      "fullName": "Fahrünissa Adıvar",
+      "email": "fahrunissa.ad8hvar0@goc.gov.tr"
     },
     {
-      "id": "fa05bee6adae4c7ffe2e964c",
-      "sex": "male",
-      "firstName": "Afi",
-      "lastName": "Sepetçi",
-      "fullName": "Afi Sepetçi",
-      "email": "afi81@goc.gov.tr"
+      "id": "dfb0ab63fdedb44ac241f07c",
+      "sex": "female",
+      "firstName": "Günnur",
+      "lastName": "Topaloğlu",
+      "fullName": "Günnur Topaloğlu",
+      "email": "gunnur50@goc.gov.tr"
     },
     {
-      "id": "eb5dfd4ced38cb8a0f7c163d",
-      "sex": "male",
-      "firstName": "Şahsüvar",
-      "lastName": "Kuzucu",
-      "fullName": "Şahsüvar Kuzucu",
-      "email": "sahsuvar68@goc.gov.tr"
+      "id": "13b223b34deadf21688a7a87",
+      "sex": "female",
+      "firstName": "Rengin",
+      "lastName": "Bademci",
+      "fullName": "Rengin Bademci",
+      "email": "rengin_bademci@goc.gov.tr"
     },
     {
-      "id": "05f5d624dcc47055406d48ab",
-      "sex": "male",
-      "firstName": "Hakkı",
-      "lastName": "Öymen",
-      "fullName": "Hakkı Öymen",
-      "email": "hakk8h_oymen@goc.gov.tr"
+      "id": "dd895ebeb3cce50dcba11cd9",
+      "sex": "female",
+      "firstName": "Arın",
+      "lastName": "Akman",
+      "fullName": "Prof. Dr. Arın Akman",
+      "email": "ar8hn37@goc.gov.tr"
     },
     {
-      "id": "14b9b42e18376256781ab8f2",
-      "sex": "male",
-      "firstName": "Giray",
-      "lastName": "Nalbantoğlu",
-      "fullName": "Dr. Giray Nalbantoğlu",
-      "email": "giray_nalbantoglu@goc.gov.tr"
+      "id": "ece740dd452a7ce35e9cf35c",
+      "sex": "female",
+      "firstName": "Miray",
+      "lastName": "Koçyiğit",
+      "fullName": "Miray Koçyiğit",
+      "email": "miray.kocyigit4@goc.gov.tr"
     },
     {
-      "id": "523effb89927dec50e3fe912",
+      "id": "7b4d97a7afa2735fbfc8d9a1",
       "sex": "male",
-      "firstName": "Alp",
-      "lastName": "Mayhoş",
-      "fullName": "Alp Mayhoş",
-      "email": "alp60@goc.gov.tr"
+      "firstName": "Zihnî",
+      "lastName": "Ekşioğlu",
+      "fullName": "Zihnî Ekşioğlu",
+      "email": "zihni_eksioglu43@goc.gov.tr"
     },
     {
-      "id": "bb4abe6ac3f78bbcddbacd3d",
+      "id": "fc1450abdaf03ad45824b0aa",
       "sex": "male",
-      "firstName": "Atalay",
-      "lastName": "Aşıkoğlu",
-      "fullName": "Atalay Aşıkoğlu",
-      "email": "atalay.as8hkoglu44@goc.gov.tr"
+      "firstName": "Recep",
+      "lastName": "Ayverdi",
+      "fullName": "Recep Ayverdi",
+      "email": "recep.ayverdi70@goc.gov.tr"
     },
     {
-      "id": "438bcd14bff1b1ba9ba7fc3e",
+      "id": "0758eaecb9e8d52adddafe49",
       "sex": "male",
-      "firstName": "Mutahhar",
-      "lastName": "Mayhoş",
-      "fullName": "Mutahhar Mayhoş",
-      "email": "mutahhar90@goc.gov.tr"
+      "firstName": "Ziver",
+      "lastName": "Paksüt",
+      "fullName": "Ziver Paksüt",
+      "email": "ziver.paksut52@goc.gov.tr"
     },
     {
-      "id": "24d7dd339b0abb93ad202c4e",
+      "id": "ccd4ee8b6f8a9bca1f55e9bc",
       "sex": "male",
-      "firstName": "Atakan",
-      "lastName": "Küçükler",
-      "fullName": "Atakan Küçükler",
-      "email": "atakan_kucukler94@goc.gov.tr"
+      "firstName": "Nazım",
+      "lastName": "Dizdar ",
+      "fullName": "Nazım Dizdar ",
+      "email": "naz8hm_dizdar64@goc.gov.tr"
     },
     {
-      "id": "e6f0ee46c1182a8dd73bbd02",
+      "id": "0449e50afcb18fb2f3ee24b0",
       "sex": "male",
-      "firstName": "Hilmi",
-      "lastName": "Yılmazer",
-      "fullName": "Hilmi Yılmazer",
-      "email": "hilmi_y8hlmazer@goc.gov.tr"
-    },
-    {
-      "id": "26cf",
-      "sex": "male",
-      "firstName": "F",
-      "lastName": "L",
-      "fullName": "Es Me",
-      "email": "esmeray3@goc.gov.tr"
-    },
-    {
-      "id": "8eb3",
-      "sex": "male",
-      "firstName": "F",
-      "lastName": "L",
-      "fullName": "Es Me",
-      "email": "esmeray3@goc.gov.tr"
+      "firstName": "Taner",
+      "lastName": "Özbir",
+      "fullName": "Prof. Dr. Taner Özbir",
+      "email": "taner.ozbir29@goc.gov.tr"
     }
   ]
 }
